@@ -1,0 +1,3 @@
+@echo off
+echo Running Jenkins demo script...
+echo Build completed successfully.
